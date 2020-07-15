@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/random-monster-tiny-demo-app/static/css/main.f4bcc2b2.chunk.css",
+    "main.js": "/random-monster-tiny-demo-app/static/js/main.c401a9f1.chunk.js",
+    "main.js.map": "/random-monster-tiny-demo-app/static/js/main.c401a9f1.chunk.js.map",
+    "runtime-main.js": "/random-monster-tiny-demo-app/static/js/runtime-main.eaf364d1.js",
+    "runtime-main.js.map": "/random-monster-tiny-demo-app/static/js/runtime-main.eaf364d1.js.map",
+    "static/js/2.70e63080.chunk.js": "/random-monster-tiny-demo-app/static/js/2.70e63080.chunk.js",
+    "static/js/2.70e63080.chunk.js.map": "/random-monster-tiny-demo-app/static/js/2.70e63080.chunk.js.map",
+    "index.html": "/random-monster-tiny-demo-app/index.html",
+    "precache-manifest.4f106bcce30ff8977d463084ce9ca257.js": "/random-monster-tiny-demo-app/precache-manifest.4f106bcce30ff8977d463084ce9ca257.js",
+    "service-worker.js": "/random-monster-tiny-demo-app/service-worker.js",
+    "static/css/main.f4bcc2b2.chunk.css.map": "/random-monster-tiny-demo-app/static/css/main.f4bcc2b2.chunk.css.map",
+    "static/js/2.70e63080.chunk.js.LICENSE.txt": "/random-monster-tiny-demo-app/static/js/2.70e63080.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaf364d1.js",
+    "static/js/2.70e63080.chunk.js",
+    "static/css/main.f4bcc2b2.chunk.css",
+    "static/js/main.c401a9f1.chunk.js"
+  ]
+}
